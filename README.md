@@ -9,7 +9,7 @@ Each member will contribute their own shell scripts by creating a personal branc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/devops25NG/batch-scripts.git
+git clone https://github.com/Git-organization-assignment-2025/Git-Organization.git
 cd batch-scripts
 ```
 
